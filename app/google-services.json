@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922813439270",
+    "project_id": "chirptrack",
+    "storage_bucket": "chirptrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922813439270:android:b094c8c95b1446ac6cb5e7",
+        "android_client_info": {
+          "package_name": "com.example.birdpoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyd0GQXjNMCWlsQhs3FiHxNSBEwUR65Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
